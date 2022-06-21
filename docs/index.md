@@ -1,6 +1,6 @@
 ### About
 
-I am a postdoc at the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/), working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship. My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human cognition. Presently, I am working on understanding how low- and mid-level visual features contribute to neural processing and perception of high-level categories.
+I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship from the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/). My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human cognition. Presently, I am working on understanding how low- and mid-level visual features contribute to neural processing and perception of high-level categories.
 
 Previously, I obtained my PhD in Neurosciences with a Specialization in Computational Neurosciences from the University of California, San Diego, working with [Dr. John Serences](https://serenceslab.ucsd.edu/). During my PhD I used functional magnetic resonance imaging (fMRI) along with computational modeling to measure how visual representations in the human brain support cognitive operations such as working memory and attention. I also used neural network models to explore the computational constraints that influence visual system organization and function.
 
@@ -30,7 +30,7 @@ Henderson, M.M., Gardner, J., Raguso, R.A., & Hoffman, M.P. (2017). Trichogramma
 Henderson, M.M., Pinskiy, V., Tolpygo, A., Savoia, S., Grange, P., & Mitra, P. (2014). Automated placement
 of stereotactic injections using a laser scan of the skull. [arXiv](https://arxiv.org/abs/1410.5914).
 
-  *=These authors made equal contributions.
+  *These authors made equal contributions.
 
 ### Contact
 
