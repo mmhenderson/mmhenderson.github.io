@@ -11,7 +11,7 @@ View my full CV [here](CV_MH_2022.pdf).
 Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2022). Food for thought:
 selectivity for food in human ventral visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v1).
 
-Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motorbased
+Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motor-based
 codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688).
 
 Henderson, M.M., & Serences, J.T. (2021). Biased orientation representations can be explained by
