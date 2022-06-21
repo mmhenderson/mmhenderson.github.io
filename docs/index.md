@@ -30,7 +30,7 @@ Henderson, M.M., Gardner, J., Raguso, R.A., & Hoffman, M.P. (2017). Trichogramma
 Henderson, M.M., Pinskiy, V., Tolpygo, A., Savoia, S., Grange, P., & Mitra, P. (2014). Automated placement
 of stereotactic injections using a laser scan of the skull. [arXiv](https://arxiv.org/abs/1410.5914).
 
-* These authors made equal contributions.
+  *=These authors made equal contributions.
 
 ### Contact
 
