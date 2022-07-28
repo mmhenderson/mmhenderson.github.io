@@ -8,6 +8,8 @@ View my full CV [here](CV_MH_2022.pdf).
 
 ### Publications
 
+Jinsi, O., Henderson, M.M, & Tarr, M.J. (2022) Why is human vision so poor in early development? The impact of initial sensitivity to low spatial frequencies on visual category learning. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.22.497205v1).
+
 Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2022). Food for thought:
 selectivity for food in human ventral visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v1).
 
