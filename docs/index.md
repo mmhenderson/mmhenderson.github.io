@@ -1,12 +1,14 @@
 ### About
 
-I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship from the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/). My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human cognition. In particular my current research focuses on questions that bridge across low-level and high-level vision, such as understanding the role of low-level image statistics in category processing. 
+I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship from the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/). My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human cognition. In particular my current research focuses on questions that bridge across low-level and high-level vision, including the role of low-level image statistics in neural processing of semantic categories.
 
 Previously, I obtained my PhD in Neurosciences with a Specialization in Computational Neurosciences from the University of California, San Diego, working with [Dr. John Serences](https://serenceslab.ucsd.edu/). During my PhD I used functional magnetic resonance imaging (fMRI) along with computational modeling to measure how visual representations in the human brain support cognitive operations such as working memory and attention. I also used neural network models to explore the computational constraints that influence visual system organization and function.
 
 View my full CV [here](CV_MH_2022.pdf).
 
 ### Publications
+
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v1).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502850v1).
 
