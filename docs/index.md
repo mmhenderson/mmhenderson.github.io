@@ -15,7 +15,7 @@ Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). Low-level tuning biases in high
 Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2022). Food for thought:
 selectivity for food in human ventral visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v1).
 
-Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2022). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. PLOS ONE (in press). https://doi.org/10.1101/2022.06.22.497205
+Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2022). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. PLOS ONE (in press). [bioRxiv](https://doi.org/10.1101/2022.06.22.497205)
 
 Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motor-based
 codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688).
