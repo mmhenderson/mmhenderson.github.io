@@ -4,18 +4,18 @@ I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](htt
 
 Previously, I obtained my PhD in Neurosciences with a Specialization in Computational Neurosciences from the University of California, San Diego, working with [Dr. John Serences](https://serenceslab.ucsd.edu/). During my PhD I used functional magnetic resonance imaging (fMRI) along with computational modeling to measure how visual representations in the human brain support cognitive operations such as working memory and attention. I also used neural network models to explore the computational constraints that influence visual system organization and function.
 
-View my full CV [here](CV_MH_2022.pdf).
+View my full CV [here](CV_MH_2023.pdf).
 
-### Publications
+### Publications and pre-prints
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v1).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502850v1).
 
-Jinsi, O., Henderson, M.M, & Tarr, M.J. (2022) Why is human vision so poor in early development? The impact of initial sensitivity to low spatial frequencies on visual category learning. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.22.497205v1).
-
 Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2022). Food for thought:
 selectivity for food in human ventral visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v1).
+
+Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2022). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. PLOS ONE (in press). https://doi.org/10.1101/2022.06.22.497205
 
 Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motor-based
 codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688).
