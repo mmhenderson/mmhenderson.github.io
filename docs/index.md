@@ -1,8 +1,8 @@
 ### About
 
-I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship from the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/). My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human cognition. I am particularly interested in questions that bridge across low-level and high-level vision, including the role of low-level image statistics in neural processing of semantic categories.
+I am a postdoc at Carnegie Mellon University, working with [Dr. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/) and [Dr. Michael Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/) and funded by a Distinguished Postdoctoral Fellowship from the [Carnegie Mellon Neuroscience Institute](https://www.cmu.edu/ni/). My research combines techniques from neuroscience and machine learning, aiming to understand the computational basis of human visual cognition. I am particularly interested in the relationship between low-level visual representations and and high-level semantic category representations in the brain, and how it reflects the correlational structure of the natural visual environment.
 
-Previously, I obtained my PhD in Neurosciences with a Specialization in Computational Neurosciences from the University of California, San Diego, working with [Dr. John Serences](https://serenceslab.ucsd.edu/). During my PhD I used functional magnetic resonance imaging (fMRI) along with computational modeling to measure how visual representations in the human brain support cognitive operations such as working memory and attention. I also used neural network models to explore the computational constraints that influence visual system organization and function.
+Previously, I obtained my PhD in Neurosciences with a Specialization in Computational Neurosciences from the University of California, San Diego, working with [Dr. John Serences](https://serenceslab.ucsd.edu/). During my PhD I used functional magnetic resonance imaging (fMRI) along with computational modeling to measure how visual representations in the human brain support cognitive operations such as working memory and attention. I also used neural network models to explore how natural image statistics contribute to biases in visual feature representations.
 
 View my full CV [here](CV_MH_2023.pdf).
 
@@ -10,7 +10,7 @@ View my full CV [here](CV_MH_2023.pdf).
 
 Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145).
 
-Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v1).
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v2).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502850v1).
 
