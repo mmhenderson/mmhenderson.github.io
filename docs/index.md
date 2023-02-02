@@ -8,14 +8,13 @@ View my full CV [here](CV_MH_2023.pdf).
 
 ### Publications and pre-prints
 
+Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2023). Selectivity for food in human ventral visual cortex. Communications Biology (in press). [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v3).
+
 Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v2).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2022). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502850v1).
-
-Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2022). Food for thought:
-selectivity for food in human ventral visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.22.492983v1).
 
 Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motor-based
 codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688).
