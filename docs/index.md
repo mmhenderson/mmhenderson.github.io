@@ -10,7 +10,7 @@ View my full CV [here](CV_MH_2023.pdf).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (in press). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. Journal of Neuroscience (for preprint see: [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.23.509292v2)).
 
-Henderson, M.M., Tarr, M.J., & Wehbe, L. (in press). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. Journal of Vision (for preprint see: [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502850v1)).
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [Journal of Vision]``(https://doi.org/10.1167/jov.23.4.8).
 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.  
 
