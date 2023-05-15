@@ -10,26 +10,26 @@ View my full CV [here](CV_MH_2023.pdf).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [Journal of Neuroscience](https://doi.org/10.1523/JNEUROSCI.1822-22.2023). ([pdf](papers/JNeuro_2023.pdf))
 
-Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [Journal of Vision](https://doi.org/10.1167/jov.23.4.8).
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [Journal of Vision](https://doi.org/10.1167/jov.23.4.8). ([pdf](papers/JOV_2023.pdf))
 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.  
 
-Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2023). Selectivity for food in human ventral visual cortex. [Communications Biology](https://www.nature.com/articles/s42003-023-04546-2).
+Jain, N., Wang, A., Henderson, M.M., Lin, R., Prince, J.S., Tarr, M.J., & Wehbe, L. (2023). Selectivity for food in human ventral visual cortex. [Communications Biology](https://www.nature.com/articles/s42003-023-04546-2). ([pdf](papers/CommsBio_2023.pdf))
 
-Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145).
+Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145). ([pdf](papers/PLOSONE_2023.pdf))
 
 Henderson, M.M., Rademaker, R.L., & Serences, J.T. (2022). Flexible utilization of spatial- and motor-based
-codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688).
+codes for the storage of visuo-spatial information. [eLife](https://elifesciences.org/articles/75688). ([pdf](papers/ELife_2022.pdf))
 
 Henderson, M.M., & Serences, J.T. (2021). Biased orientation representations can be explained by
-experience with non-uniform training set statistics. [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2776554).
+experience with non-uniform training set statistics. [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2776554). ([pdf](papers/JOV_2021.pdf))
 
 Henderson, M.M.* , Vo, V.A.* , Chunharas, C., Sprague, T.C., & Serences, J.T. (2019). Multivariate analysis of
 BOLD activation patterns recovers graded depth representations in human visual and parietal cortex.
-[eNeuro](https://www.eneuro.org/content/6/4/ENEURO.0362-18.2019).
+[eNeuro](https://www.eneuro.org/content/6/4/ENEURO.0362-18.2019). ([pdf](papers/ENeuro_2019.pdf))
 
 Henderson, M.M. & Serences, J.T. (2019). Human frontoparietal cortex represents behaviorally relevant
-target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019).
+target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019). ([pdf](papers/JNeuroPhys_2019.pdf))
 
 Henderson, M.M., Gardner, J., Raguso, R.A., & Hoffman, M.P. (2017). Trichogramma ostriniae
 (Hymenoptera: Trichogrammatidae) response to relative humidity with and without host cues. [Biocontrol Science and Technology](https://www.tandfonline.com/doi/abs/10.1080/09583157.2016.1262327).
