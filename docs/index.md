@@ -4,7 +4,7 @@ I am a postdoc at the [Carnegie Mellon Neuroscience Institute](https://www.cmu.e
 
 My research focuses on human visual perception. My goal is to understand how our visual perception reflects the structure of the world we live in as well as our need for adaptive everyday behavior. How do we compute meaningful, high-level information from noisy visual inputs, taking into account our experience with the statistics of our environment? How do we adapt these representations to changes in our goals and internal state? To address these questions, I use experimental techniques such as functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. I also use computational approaches, including modeling applied to fMRI and behavioral data as well as in-silico experiments in artificial neural network models.
 
-View my full CV [here](CV_MH_2023.pdf).
+View my full CV [here](CV_MH_2023.pdf) and a recent research statement [here](research_statement.pdf).
 
 ### Publications and pre-prints
 
