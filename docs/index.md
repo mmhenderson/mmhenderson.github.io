@@ -4,13 +4,13 @@ I am a postdoc at the [Carnegie Mellon Neuroscience Institute](https://www.cmu.e
 
 My research focuses on human visual perception. My goal is to understand how our visual perception reflects the structure of the world we live in as well as our need for adaptive everyday behavior. How do we compute meaningful, high-level information from noisy visual inputs, taking into account our experience with the statistics of our environment? How do we adapt these representations to changes in our goals and internal state? To address these questions, I use experimental techniques such as functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. I also use computational approaches, including modeling applied to fMRI and behavioral data as well as in-silico experiments in artificial neural network models.
 
-View my full CV [here](CV_MH_2023.pdf) and a recent research statement [here](research_statement.pdf).
+View my full CV [here](CV_MH_2024.pdf) and a recent research statement [here](research_statement.pdf).
 
 ### Publications and pre-prints
 
-Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Categorization dynamically alters representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257). 
+Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
 
-Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2023). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. [arXiv](https://doi.org/10.48550/arXiv.2310.04420); under review. 
+Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Categorization dynamically alters representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179).  
 
