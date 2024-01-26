@@ -10,11 +10,11 @@ View my full CV [here](CV_MH_2024.pdf) and a recent research statement [here](re
 
 Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
 
-Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Categorization dynamically alters representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
+Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179).  
 
-Luo, A.F., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2023). Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://doi.org/10.48550/arXiv.2306.03089)); to appear as oral presentation.
+Luo, A.F., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2023). Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://doi.org/10.48550/arXiv.2306.03089)); oral presentation.
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). A texture statistics encoding model reveals hierarchical feature selectivity across human visual cortex. [Journal of Neuroscience](https://doi.org/10.1523/JNEUROSCI.1822-22.2023). ([pdf](papers/JNeuro_2023.pdf))
 
