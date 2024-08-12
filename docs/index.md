@@ -4,7 +4,7 @@
 
 ### About
 
-Update: Starting in September 2024, I will be an Assistant Professor in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-margaret.html) at CMU, with a courtesy appointment in the [Neuroscience Institute](https://www.cmu.edu/ni/). 
+Update: In September 2024, I will start as a tenure-track Assistant Professor in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-margaret.html) at Carnegie Mellon University, with a courtesy appointment in the [Neuroscience Institute](https://www.cmu.edu/ni/). 
 
 Prior to this, I was a postdoc at CMU, working with Leila Wehbe and Michael Tarr. Before that, I earned my B.S. in Biological Sciences from Cornell University, then obtained my Ph.D. in Neurosciences from the University of California, San Diego, where I worked with John Serences.
 
