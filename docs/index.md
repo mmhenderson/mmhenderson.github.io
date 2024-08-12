@@ -1,5 +1,5 @@
-<div style="text-align:center">
-<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" width="200"/>
+<div style="text-align:left">
+<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" width="250"/>
 </div>
 
 ### About
