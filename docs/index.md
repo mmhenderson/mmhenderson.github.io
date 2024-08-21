@@ -4,7 +4,7 @@
 
 ### About
 
-Update: In September 2024, I will start as a tenure-track Assistant Professor in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-margaret.html) at Carnegie Mellon University, with a courtesy appointment in the [Neuroscience Institute](https://www.cmu.edu/ni/). 
+Update: In September 2024, I will start as a tenure-track Assistant Professor in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-maggie.html) at Carnegie Mellon University, with a courtesy appointment in the [Neuroscience Institute](https://www.cmu.edu/ni/). 
 
 See my [lab website](https://hendersonneurolab.github.io/about/) for more details.
 
