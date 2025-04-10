@@ -1,0 +1,1 @@
+#### Update! As of September 2024, I started as a tenure-track Assistant Professor at Carnegie Mellon University. For details about the lab and what we're working on, see our [lab website](https://hendersonneurolab.github.io/about/).
